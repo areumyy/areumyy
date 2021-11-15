@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=9BAEDA&height=150&section=header&text=Welcome%20to%20My%20GitHub&animation=twinkling&fontSize=40&fontColor=E1DB8C)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=9BAEDA&height=150&section=header&text=Welcome%20to%20Areum's%20GitHub&animation=twinkling&fontSize=38&fontColor=E1DB8C)
 <!-- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=9FC1A5&height=200&section=header&text=capsule%20render&fontSize=50&fontColor=A8A8A8) -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=9FC1A5&height=200&section=header&text=capsule%20render&fontSize=50&fontColor=E28BB4) -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=DA9BB8&height=200&section=header&text=capsule%20render&fontSize=50&fontColor=E1DB8C) -->
