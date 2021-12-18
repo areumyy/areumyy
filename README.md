@@ -21,8 +21,8 @@
 #### ABOUT ME  
 
 [![GitHub](https://img.shields.io/badge/GitHub-B0B0B0?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/areumyy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E28BB4?style=flat-square&logo=GoogleFit&logoColor=white)](https://areumyy.com)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)  
+[![GitBlog](https://img.shields.io/badge/Portfolio-E28BB4?style=flat-square&logo=GoogleFit&logoColor=white)](https://areumyy.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/Areum-Jung-6f99fb856c1a4dc2948fc932331404ce)
   
 #### TODAY  
 
